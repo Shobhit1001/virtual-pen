@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-print("package imported")
 img = cv2.VideoCapture(1)
 
 img.set(3,640)
